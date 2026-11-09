@@ -9,6 +9,6 @@ venue: 'Accepted at AAAI 2026 - AAAI Conference on Artificial Intelligence'
 slidesurl: 'https://patrickcarter.example/files/slides-2026-04-09-quantum-cnn-calibration.pdf'
 paperurl: 'https://doi.example/10.1609/aaai.2026.0409'
 bibtexurl: 'https://patrickcarter.example/files/bibtex-2026-04-09-quantum-cnn-calibration.bib'
-codeurl: 'https://github.com/zacharybenson/quantum-cnn'
+codeurl: 'https://github.com/wholetherapi/emails_github_1643_m2v7c1_quantum-cnn'
 citation: 'Patrick Carter, et al. (2026). "Noise-Robust Convolutional Networks for Quantum Sensor Calibration" <i>Accepted at AAAI 2026 - AAAI Conference on Artificial Intelligence</i>.'
 ---

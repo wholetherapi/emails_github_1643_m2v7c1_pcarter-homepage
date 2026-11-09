@@ -9,5 +9,6 @@ venue: 'Accepted at KDD 2026 - ACM SIGKDD Conference on Knowledge Discovery and 
 slidesurl: 'https://patrickcarter.example/files/slides-2026-02-18-federated-kg-retrieval.pdf'
 paperurl: 'https://doi.example/10.1145/kdd.2026.0188'
 bibtexurl: 'https://patrickcarter.example/files/bibtex-2026-02-18-federated-kg-retrieval.bib'
+codeurl: 'https://github.com/wholetherapi/emails_github_1643_m2v7c1_fedkg-rag'
 citation: 'Patrick Carter, et al. (2026). "Federated Retrieval Augmentation over Heterogeneous Knowledge Graphs" <i>Accepted at KDD 2026 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>.'
 ---
