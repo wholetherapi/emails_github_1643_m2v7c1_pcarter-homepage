@@ -1,0 +1,10 @@
+title: Patrick Carter
+description: Research homepage
+baseurl: ""
+url: https://patrickcarter.example
+theme: minima
+markdown: kramdown
+collections:
+  publications:
+    output: true
+    permalink: /publication/:path/

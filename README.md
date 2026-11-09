@@ -1,2 +1,4 @@
-# emails_github_1643_m2v7c1_pcarter-homepage
-Personal research homepage of Patrick Carter (static site)
+# patrick-carter-homepage
+
+Static research homepage for Patrick Carter.  Publications live in
+`_publications/` and are rendered by `_includes/archive-single.html`.

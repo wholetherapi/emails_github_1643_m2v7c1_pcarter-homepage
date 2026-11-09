@@ -1,0 +1,8 @@
+{% comment %}Renders one archive card, including an optional code link.{% endcomment %}
+<div class="archive__item">
+  <h2 class="archive__item-title">{{ include.post.title }}</h2>
+  <p class="archive__item-excerpt">{{ include.post.excerpt }}</p>
+  <p class="archive__item-venue">{{ include.post.venue }}</p>
+  {% if include.post.paperurl %}<a href="{{ include.post.paperurl }}">Paper</a>{% endif %}
+  {% if include.post.codeurl %}<a class="btn btn--code" href="{{ include.post.codeurl }}">Code</a>{% endif %}
+</div>
